@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>
+<pictureViewer url="img/">
+	<album title="Non-Sporting" url="cat1/">
+		<img thumb="thumb1.jpg"/>
+		<img thumb="thumb2.jpg"/>
+		<img thumb="thumb3.jpg"/>
+		<img thumb="thumb4.jpg"/>
+	</album>
+	<album title="Hound" url="cat2/">
+		<img thumb="thumb1.jpg" />
+		<img thumb="thumb2.jpg" />
+		<img thumb="thumb3.jpg" />
+		<img thumb="thumb4.jpg" />
+		<img thumb="thumb6.jpg" />
+		<img thumb="thumb7.jpg" />
+	</album>
+	<album title="Sporting" url="cat3/">
+		<img thumb="thumb1.jpg"/>
+		<img thumb="thumb2.jpg"/>
+	</album>
+</pictureViewer>
